@@ -8,8 +8,8 @@ pwn.hust.college 平台可使用的官方道馆列表
 
 ## x64 架构
 
-- [软件安全2023年秋季学期道馆](https://github.com/HUSTSeclab/software-security-dojo)
-- [软件安全实验2023年秋季学期道馆](https://github.com/HUSTSeclab/software-security-lab-dojo)
+- [软件安全2023年秋季学期道馆(x64)](https://github.com/HUSTSeclab/software-security-dojo-x64)
+- [软件安全实验2023年秋季学期道馆(x64)](https://github.com/HUSTSeclab/software-security-lab-dojo-x64)
 - [深灰道馆(x64)](https://github.com/HUSTSeclab/Pewter_Dojo_X64)
 - [华蓝道馆(x64)](https://github.com/HUSTSeclab/Celadon_Dojo_X64)
 - [枯叶道馆(x64)](https://github.com/HUSTSeclab/Vermilion_Dojo_X64)
