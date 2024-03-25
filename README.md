@@ -12,7 +12,7 @@ pwn.hust.college 平台可使用的官方道馆列表
 - [软件安全实验2023年秋季学期道馆(x64)](https://github.com/HUSTSeclab/software-security-lab-dojo-x64)
 - [软件安全实验2024年-神奇宝贝联盟大会(x64)](https://github.com/HUSTSeclab/Pokemon_League_Conference_X64)
 - [深灰道馆(x64)](https://github.com/HUSTSeclab/Pewter_Dojo_X64)
-- [华蓝道馆(x64)](https://github.com/HUSTSeclab/Celadon_Dojo_X64)
+- [华蓝道馆(x64)](https://github.com/HUSTSeclab/Cerulean_Dojo_X64)
 - [枯叶道馆(x64)](https://github.com/HUSTSeclab/Vermilion_Dojo_X64)
 - [金黄道馆(x64)](https://github.com/HUSTSeclab/Saffron_Dojo_X64)
 - [玉虹道馆(x64)](https://github.com/HUSTSeclab/Celadon_Dojo_X64)
