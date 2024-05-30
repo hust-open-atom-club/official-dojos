@@ -5,6 +5,9 @@ pwn.hust.college 平台可使用的官方道馆列表
 ## 架构无关道馆
 
 - [入门教学道馆](https://github.com/HUSTSeclab/welcome-dojo)
+- [Linux 基础学习](https://github.com/hust-open-atom-club/linux-basic-dojo-x64)
+- [Pwntools 学习](https://github.com/hust-open-atom-club/pwntools-dojo)
+
 
 ## x64 架构
 
